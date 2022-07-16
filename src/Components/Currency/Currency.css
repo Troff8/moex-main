@@ -1,0 +1,16 @@
+.blockCurrencies{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    width: 150px;
+    margin: 5px;
+    background-color: rgb(235, 240, 243);
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+.textGreen{
+    color: green;
+}
+.textRed{
+    color: red;
+}

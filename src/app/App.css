@@ -1,0 +1,40 @@
+body {
+  margin: 0px;
+}
+.appLight{
+  background-color: rgb(230, 233, 235);
+  padding: 10px 10%;
+  height: 100vh;
+  box-sizing: border-box;
+  overflow: auto;
+}
+.appNight{
+  background-color: rgb(75, 75, 75);
+  padding: 10px 10%;
+  height: 100vh;
+  box-sizing: border-box;
+  overflow: auto;
+}
+.app a{
+  text-decoration: none;
+}
+.temsBlock{
+  display: flex;
+  align-items: center;
+  justify-content: right;
+}
+.greyColor{
+  color: grey;
+}
+.yellowColor{
+  color: yellow;
+}
+.NightCollor{
+  color:#c96dfd;
+}
+.bodyLight{
+  background-color: rgb(230, 233, 235);
+}
+.bodyNight{
+  background-color: rgb(75, 75, 75);
+}

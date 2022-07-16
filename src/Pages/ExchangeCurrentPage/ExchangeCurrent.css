@@ -1,0 +1,41 @@
+.block{ 
+    height: 100%;
+    margin: 5px;
+    background-color: rgb(235, 240, 243);
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+.infoBlocks{
+    display: flex;
+    justify-content: space-between;
+}
+.infoBlock{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.text{
+    text-align: center;
+    font-size: 12px;
+    font-weight: 600;
+}
+.headerText{
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+}
+.textGreen{
+    color: green;
+}
+.textRed{
+    color: red;
+}
+.tableInfo{
+    display: flex;
+    justify-content: center;
+}
+.blockInfoTable{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    flex-direction: row;
+    padding: 5px;
+}

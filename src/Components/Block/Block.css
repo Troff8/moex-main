@@ -1,0 +1,9 @@
+.block{
+    text-align: center;
+    background-color: rgb(235, 240, 243);
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    min-height: 50px;
+}
+.infoName{
+    padding-top: 12px;
+}

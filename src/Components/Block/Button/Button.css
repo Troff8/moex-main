@@ -1,0 +1,22 @@
+.container{
+    height: 30px;
+    width: 100px;
+    border: 1px solid rgb(35, 57, 97);
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    border-radius: 5px;
+    margin: 5px 0 5px 0;
+}
+.textLight{
+    color: rgb(49, 50, 51);
+    text-align: center;
+    margin-top: 1px;
+    font-weight: 600;
+    font-size: 15px;
+}
+.textNight{
+    color:aliceblue; ;
+    text-align: center;
+    margin-top: 1px;
+    font-weight: 600;
+    font-size: 15px;
+}
